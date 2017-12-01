@@ -18,7 +18,7 @@
     "url": "https://github.com/LearnBoost/knox/issues"
   },
   "dependencies": {
-    "mime": "*"
+    "mime": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "*"
